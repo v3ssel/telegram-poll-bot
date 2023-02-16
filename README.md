@@ -1,1 +1,1 @@
-## Telegram bot for polling, created in S21 Weeklython
+## Telegram bot for polling using telebot api, created in S21 Weeklython - 22.08.2022
